@@ -1,0 +1,7 @@
+print ("hello world") 
+print ("No se que hago con mi life")
+print ("Debo de saber a programar y hasta ahora no he puesto de mi parte en siquiera terminar un curso como deberia")
+print ("por el momento soy una decepcion para todos los que han creido en mi")
+print ("hello a mi futuro yo, ojala logres superar lo que es dificil para ti ahora en el 23 de enero del 2022")
+print ("la verda si es muy dificil para mi no saber programar estando al ultimo año de mi carrera")
+print ("es tan difil....")
